@@ -1,0 +1,25 @@
+{
+  "name": "autocomplete-paths",
+  "main": "./lib/autocomplete-paths",
+  "version": "1.0.5",
+  "description": "Adds path autocompletion to autocomplete+",
+  "repository": "https://github.com/atom-community/autocomplete-paths",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "underscore-plus": ">=1.1.2",
+    "fuzzaldrin": ">=1.0.0"
+  },
+  "devDependencies": {
+    "coffeelint": "^1.8.1"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "1.0.0": "provide"
+      }
+    }
+  }
+}

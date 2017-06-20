@@ -1,0 +1,17 @@
+{
+  "name": "atom-material-syntax",
+  "theme": "syntax",
+  "version": "1.0.6",
+  "description": "A dark syntax theme for Atom that uses Google's Material Design color palette",
+  "keywords": [
+    "syntax",
+    "theme",
+    "material",
+    "material design"
+  ],
+  "repository": "https://github.com/silvestreh/atom-material-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  }
+}

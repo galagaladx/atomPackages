@@ -1,0 +1,20 @@
+{
+  "name": "highlight-line",
+  "main": "./lib/highlight-line",
+  "version": "0.12.0",
+  "description": "Highlights the current line in the editor",
+  "repository": "https://github.com/richrace/highlight-line",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  },
+  "devDependencies": {
+    "coffee-script": "1.9.0",
+    "coffeelint": "1.8.1",
+    "coffeelint-jasmine": "0.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/richrace/highlight-line/issues"
+  },
+  "homepage": "https://github.com/richrace/highlight-line"
+}
